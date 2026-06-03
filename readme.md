@@ -19,20 +19,24 @@
 
 ### Tela Principal
 
-```text
-[Imagem da interface]
+```
+![Uploading Captura de tela 2026-06-03 180011.png…]()
+
+
 ```
 
 ### Configurações
 
-```text
-[Imagem das configurações]
+```
+![Uploading Captura de tela 2026-06-03 180055.png…]()
+
 ```
 
 ### Histórico
 
-```text
-[Imagem do histórico]
+```
+![Uploading Captura de tela 2026-06-03 180038.png…]()
+
 ```
 
 ## 🚀 Tecnologias Utilizadas
@@ -50,7 +54,7 @@
 
 ## ▶️ Executando
 
-```bash
+```
 Baixe e instale o instalador em releases.
 ```
 ```
