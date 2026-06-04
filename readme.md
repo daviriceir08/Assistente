@@ -19,19 +19,19 @@
 
 ### Tela Principal
 
-```
+
 ![Tela Principal](tela_principal.png)
-```
+
 
 ### Configurações
 
-```
+
 ![Configurações](configuracoes.png)
-```
+
 
 ### Histórico
 
-```
+
 ![Chat](chat.png)
 ```
 
