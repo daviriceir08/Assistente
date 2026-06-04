@@ -25,14 +25,14 @@
 
 ### Configurações
 
-```text
-[Imagem das configurações]
+```
+![Configurações](configuracoes.png)
 ```
 
 ### Histórico
 
-```text
-[Imagem do histórico]
+```
+![Chat](chat.png)
 ```
 
 ## 🚀 Tecnologias Utilizadas
