@@ -19,8 +19,8 @@
 
 ### Tela Principal
 
-```text
-[Imagem da interface]
+```
+![Tela Principal](tela_principal.png)
 ```
 
 ### Configurações
